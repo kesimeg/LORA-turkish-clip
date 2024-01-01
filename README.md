@@ -21,7 +21,7 @@ LORA_CLIP_training_Tasviret -> Finetuning code of CLIP with LORA
 
 # How to use the model?
 
-In order to use the model use can use the class in model.py like the example below:
+I have uploaded the model to [HuggingFace]. The model can be used like the example below:
 
 ```Python
 from PIL import Image
@@ -71,3 +71,4 @@ https://arxiv.org/abs/2103.00020
 
 
 [repo]: https://github.com/kesimeg/turkish-clip
+[HuggingFace]: https://huggingface.co/kesimeg/lora-turkish-clip
