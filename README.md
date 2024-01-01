@@ -70,4 +70,4 @@ Original CLIP paper:
 https://arxiv.org/abs/2103.00020
 
 
-[repo]: https://github.com/kesimeg/LORA-turkish-clip
+[repo]: https://github.com/kesimeg/turkish-clip
