@@ -18,6 +18,8 @@ Low-Rank Adaptation is a technique to finetune models. Instead of finetuning all
 
 LORA_CLIP_training_Tasviret -> Finetuning code of CLIP with LORA
 
+Inference -> Demonstrates how to load and use LORA model. Compares performances of original and LORA finetuned CLIP models both in Turkish and English.
+
 
 # How to use the model?
 
